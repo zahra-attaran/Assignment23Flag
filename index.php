@@ -36,7 +36,7 @@
             width: 30px;
             height: 30px;
             position: absolute;
-            background-image: url("star2.png");
+/*             background-image: url("star2.png"); */
             color: white;
         }
     </style>
